@@ -1,1 +1,1 @@
-# decodelabs-sql-analysis
+# SQL Data Analysis Project - Decodelabs Internship
